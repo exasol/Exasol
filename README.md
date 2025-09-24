@@ -2,7 +2,7 @@
 # Welcome to Exasol
 
 <div>
-Modernize your data warehouse, accelerate analytics performance, optimize analytics costs, and securely manage AI—fueled by the world’s fastest Analytics Engine.
+Here you can modernize your data warehouse, accelerate analytics performance, optimize analytics costs, and securely manage AI—fueled by the world’s fastest Analytics Engine.
 
 </div>
 
