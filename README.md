@@ -29,7 +29,7 @@ Exasol's Analytics Engine transforms complex industry data into instant insights
 
 * [Official website](https://exasol.com/) Features a concise, high-level overview of Exasol on the homepage.
 * [Exasol Cloud](https://cloud.exasol.com) Exasol SaaS, run it on the cloud and stay away from the hassal of managing the severs yourself.
-* [Documentation](https://docs.exasol.com/home.htm).
+* [Documentation](https://docs.exasol.com/home.htm) The knowledge base to power your ideas.
 * [YouTube](https://www.youtube.com/user/EXASOLAG) check out our Youtube channel.
 * [Exasol Community Forum](https://community.exasol.com/) Connect with the community, solve challenges faster.
 * [Contact us](https://www.exasol.com/contact-us/) Can provide support if you have any questions.
