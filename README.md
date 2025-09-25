@@ -24,3 +24,12 @@ Exasol's Analytics Engine transforms complex industry data into instant insights
 [ Exasol's Community Edition](https://www.exasol.com/free-signup-community-edition/) is a free, on-premises version of our powerful analytics engine. It’s preconfigured with sample data and scripts, so you can start testing in minutes.
 
 </div>
+
+#### Relevent Links
+
+* [Official website](https://exasol.com/) Features a concise, high-level overview of Exasol on the homepage.
+* [Exasol Cloud](https://cloud.exasol.com) Exasol SaaS, run it on the cloud and stay away from the hassal of managing the severs yourself.
+* [Documentation](https://docs.exasol.com/home.htm).
+* [YouTube](https://www.youtube.com/user/EXASOLAG) check out our Youtube channel.
+* [Exasol Community Forum](https://community.exasol.com/) Connect with the community, solve challenges faster.
+* [Contact us](https://www.exasol.com/contact-us/) Can provide support if you have any questions.
