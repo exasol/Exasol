@@ -18,15 +18,15 @@ Exasol gives you the performance of an in-memory engine, the flexibility of MPP 
 
 ### Why Exasol 
 
-* Ultra-fast analytics – process billions of rows in seconds with our in-memory MPP (Massively Parallel Processing) engine.
+* **Ultra-fast analytics** – process billions of rows in seconds with our in-memory MPP (Massively Parallel Processing) engine.
 
-* Fully SQL-compatible – Exasol follows the SQL syntax which is very familiar with other SQL databases.
+* **Fully SQL-compatible** – Exasol follows the SQL syntax which is very familiar with other SQL databases.
 
-* Sovereign by design – deploy in your own environment and keep data where it belongs.
+* **Sovereign by design** – deploy in your own environment and keep data where it belongs.
 
-* AI-ready – integrate large language models, Python, R, or GPU acceleration using our UDF framework.
+* **AI-ready** – integrate large language models, Python, R, or GPU acceleration using our UDF framework.
 
-* Seamless integration – connect easily to BI tools, data lakes, and modern data platforms.
+* **Seamless integration** – connect easily to BI tools, data lakes, and modern data platforms.
 
 <div>
 
@@ -36,15 +36,17 @@ Exasol gives you the performance of an in-memory engine, the flexibility of MPP 
 The easiest way to try Exasol is through the Community Edition: a fully functional version for personal or non-production use. 
 </div>
 
-1. Go to the download page: [ Exasol Community Edition → ](https://www.exasol.com/downloads/).
+1. Go to the **download page:** [ Exasol Community Edition → ](https://www.exasol.com/downloads/).
 
-2. Download the Community Edition.
+2. **Download** the Community Edition.
 
-3. Follow the installation steps in the [ Community Edition Guide ](https://github.com/zachadda/exasol-community-edition/blob/main/README.md).
+3. **Follow the installation steps** in the [ Community Edition Guide ](https://github.com/zachadda/exasol-community-edition/blob/main/README.md).
 
 <div>Once installed, connect via your preferred SQL clients e.g. DBVisualizer, DBeaver</div>
 
-Then run your first query:
+
+#### Then run your first query:
+
 SELECT 'Hello Exasol!' AS greeting;
 
 Next steps: explore integration examples and AI workloads in [Exasol AI Lab →](https://github.com/exasol/ai-lab)
