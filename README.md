@@ -2,7 +2,7 @@
 # Exasol: The High-Performance Analytics Engine
 
 <div>
-Here you can modernize your data warehouse, accelerate analytics performance, optimize analytics costs, and securely manage AI—fueled by the world’s fastest Analytics Engine.
+Run complex analytics at in-memory speed with full SQL compatibility and built-in AI functions. Exasol gives you the performance of an in-memory engine, the flexibility of MPP architecture, and the freedom to deploy anywhere: on-premises, cloud, or hybrid.
 
 </div>
 
