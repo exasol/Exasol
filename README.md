@@ -1,15 +1,12 @@
 
 # Exasol: The High-Performance Analytics Engine
 
-<div>
-Run complex analytics at in-memory speed with full SQL compatibility and built-in AI functions. Exasol gives you the performance of an in-memory engine, the flexibility of MPP architecture, and the freedom to deploy anywhere: on-premises, cloud, or hybrid.
 
-</div>
 
 [![My Badge](doc/assets/Exasol_Logo_2025_Dark.svg)](https://exasol.com)
 
 
-## Exasol: The High-Performance Analytics Engine  
+ 
 
 <div>
 Run complex analytics at in-memory speed with full SQL compatibility and built-in AI functions. 
