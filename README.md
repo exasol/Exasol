@@ -13,11 +13,11 @@ Run complex analytics at in-memory speed with full SQL compatibility and built-i
 Exasol gives you the performance of an in-memory engine, the flexibility of MPP architecture, and the freedom to deploy anywhere: on-premises, cloud, or hybrid. 
 </div>
 
-### Why Exasol 
+## Why Exasol 
 
 * **Ultra-fast analytics** – process billions of rows in seconds with our in-memory MPP (Massively Parallel Processing) engine.
 
-* **Fully SQL-compatible** – Exasol follows the SQL syntax which is very familiar with other SQL databases.
+* **Fully SQL-compatible** – Exasol follows standard SQL syntax familiar to users of other SQL databases.
 
 * **Sovereign by design** – deploy in your own environment and keep data where it belongs.
 
@@ -25,44 +25,53 @@ Exasol gives you the performance of an in-memory engine, the flexibility of MPP 
 
 * **Seamless integration** – connect easily to BI tools, data lakes, and modern data platforms.
 
-<div>
 
-### Quick Start (Community Edition) 
+## Quick Start
 
-<div>
-The easiest way to try Exasol is through the Community Edition: a fully functional version for personal or non-production use. 
-</div>
+There are two ways to get started quickly with Exasol, depending which platform you prefer.
 
-1. Go to the **download page:** [ Exasol Community Edition → ](https://www.exasol.com/downloads/).
+### Quick Start on AWS with Exasol Personal
 
-2. **Download** the Community Edition.
+Exasol Personal is a fully functional, unlimited edition of Exasol for personal use. Currently, it runs on AWS, with additional cloud platforms coming soon.
 
-3. **Follow the installation steps** in the [ Community Edition Guide ](https://github.com/zachadda/exasol-community-edition/blob/main/README.md).
+On Mac and Linux you can get started by pasting this command into your terminal:
 
-<div>Once installed, connect via your preferred SQL clients e.g. DBVisualizer, DBeaver</div>
+```sh
+curl https://downloads.exasol.com/exasol-personal/installer.sh | sh
+```
+
+For instructions on how to install on Windows and further information, read the [Exasol Personal Guide](https://github.com/exasol/exasol-personal/blob/main/README.md).
 
 
-#### Then run your first query:
+### Quick Start with Community Edition
 
-SELECT 'Hello Exasol!' AS greeting;
+Our Community Edition runs locally in a VM and is limited to 200 GB. You can download it [here](https://www.exasol.com/free-signup-community-edition/). Read the [Community Edition guide](https://github.com/exasol-labs/exasol-labs-community-edition) for instructions on how to get started.
 
-Next steps: explore integration examples and AI workloads in [Exasol AI Lab →](https://github.com/exasol/ai-lab)
+## Next Steps
 
-### Ecosystem Overview 
+Get the most out of Exasol with these resources:
 
-| Component | Respository | Description |
+- [Exasol Documentation](https://docs.exasol.com/db/latest/home.htm) — Complete database documentation
+- [Connect to Exasol](https://docs.exasol.com/db/latest/connect_exasol.htm) — Driver downloads and client setup
+- [Load Data](https://docs.exasol.com/db/latest/loading_data.htm) — Import data into your database
+- [SQL Reference](https://docs.exasol.com/db/latest/sql_reference.htm) — Complete SQL syntax reference
+- [Exasol Community](https://community.exasol.com) — Ask questions and share knowledge
+
+## Explore Our Ecosystem
+
+| Component | Repository | Description |
 | :---: | :---: | :---: |
+| 🔬 Exasol Labs | [exasol/labs ](https://github.com/exasol-labs) | Innovation and state-of-the-art projects  |
 | 🧩 Docker DB | [ exasol/docker-db ](https://github.com/exasol/docker-db) | Run Exasol locally in containers |
 | 🔗 Virtual Schemas | [exasol/virtual-schemas](https://github.com/exasol/virtual-schemas) | Federate queries across multiple data sources |
-| 🧠 AI Lab | [exasol/ai-lab ](https://github.com/exasol/ai-lab) | Build and run AI/ML workloads with Exasol |
 | 🧑‍💻 JDBC Drivers | [exasol/exasol-jdbc ](https://github.com/exasol/exasol-jdbc) | Connect Exasol to Java applications |
 | 📚 Developer Docs | [exasol/developer-documentation](https://github.com/exasol/developer-documentation) | Guides, SDKs, and integration docs |
 
 
-### Join the Community 
+## Join the Community 
 
 We’re building an open, collaborative developer community. 
-Please, join to ask questions, share feedback, or contribute ideas. 
+Join us to ask questions, share feedback, or contribute ideas.
 
 * [🧭 Developer Community ](https://community.exasol.com/).
 * [🧾 Official Documentation ](https://docs.exasol.com/).
@@ -78,17 +87,19 @@ Exasol has consistently achieved top performance in industry benchmarks and is t
 * [ 📈 Read customer stories → ](https://www.exasol.com/customer-stories/).
 
 ### Compare Editions 
+
 Start free with the Community Edition and upgrade when ready. 
 
 | Edition  | Ideal for  | Key benefits |
 | :---: | :---: | :---: |
-| 🧑‍💻 Community Edition | Developers & teams | Free, local, full-featured testing |
-| 🏢 Enterprise Edition | Production & multi-user | Production & multi-user |
+| ☁️ Exasol Personal | Individual users, data scientists, partners | Free, AWS-hosted, unlimited data, full analytics performance |
+| 🧑‍💻 Community Edition | Developers & on-premises testing | Free, local VM, up to 200 GB, full functionality |
+| 🏢 Enterprise Edition | Production deployments | Unlimited scale, flexible deployment (SaaS/on-prem/hybrid), enterprise support |
 
 [Compare features → ](https://www.exasol.com/downloads/)
 
 
-### ❤️ Thanks for checking out Exasol 
+### 💚 Thanks for checking out Exasol 
 <div>
 If you found this useful, please ⭐ star this repository to support the community and help more developers discover Exasol. 
 </div>
