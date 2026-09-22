@@ -1,4 +1,3 @@
-
 # Exasol: The High-Performance Analytics Engine
 
 
@@ -45,7 +44,7 @@ For instructions on how to install on Windows and further information, read the 
 
 ### Quick Start with Community Edition
 
-Our Community Edition runs locally in a VM and is limited to 200 GB. You can download it [here](https://www.exasol.com/free-signup-community-edition/). Read the [Community Edition guide](https://github.com/exasol-labs/exasol-labs-community-edition) for instructions on how to get started.
+Our Community Edition runs locally in a VM and is limited to 200 GB. You can download it [here](https://www.exasol.com/free-signup-community-edition/). Read the [Community Edition guide](https://githu[...]
 
 ## Next Steps
 
@@ -64,7 +63,7 @@ Get the most out of Exasol with these resources:
 | 🔬 Exasol Labs | [exasol/labs ](https://github.com/exasol-labs) | Innovation and state-of-the-art projects  |
 | 🧩 Docker DB | [ exasol/docker-db ](https://github.com/exasol/docker-db) | Run Exasol locally in containers |
 | 🔗 Virtual Schemas | [exasol/virtual-schemas](https://github.com/exasol/virtual-schemas) | Federate queries across multiple data sources |
-| 🧑‍💻 JDBC Drivers | [exasol/exasol-jdbc ](https://github.com/exasol/exasol-jdbc) | Connect Exasol to Java applications |
+| 🧑‍💻 Drivers by Language | [Java (JDBC)](https://docs.exasol.com/db/latest/connect_exasol/drivers.htm), [Python](https://docs.exasol.com/db/latest/connect_exasol/drivers.htm), [Go](https://docs.exasol.com/db/latest/connect_exasol/drivers.htm), [Node.js](https://docs.exasol.com/db/latest/connect_exasol/drivers.htm), [.NET](https://docs.exasol.com/db/latest/connect_exasol/drivers.htm), [ODBC](https://docs.exasol.com/db/latest/connect_exasol/drivers.htm) | Connect Exasol from your preferred language |
 | 📚 Developer Docs | [exasol/developer-documentation](https://github.com/exasol/developer-documentation) | Guides, SDKs, and integration docs |
 
 
