@@ -1,11 +1,6 @@
 # Exasol: The High-Performance Analytics Engine
 
-
-
 [![My Badge](doc/assets/Exasol_Logo_2025_Dark.svg)](https://exasol.com)
-
-
- 
 
 <div>
 Run complex analytics at in-memory speed with full SQL compatibility and built-in AI functions. 
@@ -15,13 +10,9 @@ Exasol gives you the performance of an in-memory engine, the flexibility of MPP 
 ## Why Exasol 
 
 * **Ultra-fast analytics** – process billions of rows in seconds with our in-memory MPP (Massively Parallel Processing) engine.
-
 * **Fully SQL-compatible** – Exasol follows standard SQL syntax familiar to users of other SQL databases.
-
 * **Sovereign by design** – deploy in your own environment and keep data where it belongs.
-
 * **AI-ready** – integrate large language models, Python, R, or GPU acceleration using our UDF framework.
-
 * **Seamless integration** – connect easily to BI tools, data lakes, and modern data platforms.
 
 
@@ -42,9 +33,10 @@ curl https://downloads.exasol.com/exasol-personal/installer.sh | sh
 For instructions on how to install on Windows and further information, read the [Exasol Personal Guide](https://github.com/exasol/exasol-personal/blob/main/README.md).
 
 
-### Quick Start with Community Edition
+### Quick Start with Exasol Personal
 
-Our Community Edition runs locally in a VM and is limited to 200 GB. You can download it [here](https://www.exasol.com/free-signup-community-edition/). Read the [Community Edition guide](https://githu[...]
+You can try out Exasol for free with our [Exasol Personal](https://www.exasol.com/personal).
+
 
 ## Next Steps
 
