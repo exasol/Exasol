@@ -32,12 +32,6 @@ curl https://downloads.exasol.com/exasol-personal/installer.sh | sh
 
 For instructions on how to install on Windows and further information, read the [Exasol Personal Guide](https://github.com/exasol/exasol-personal/blob/main/README.md).
 
-
-### Quick Start with Exasol Personal
-
-You can try out Exasol for free with our [Exasol Personal](https://www.exasol.com/personal).
-
-
 ## Next Steps
 
 Get the most out of Exasol with these resources:
